@@ -1,0 +1,10 @@
+data/
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+runs/
+wandb/
+*.log
+.idea
+License Plate Recognition
