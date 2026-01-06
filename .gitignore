@@ -8,3 +8,5 @@ wandb/
 *.log
 .idea
 License Plate Recognition
+ocr
+.venv
